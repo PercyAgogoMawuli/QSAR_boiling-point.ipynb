@@ -9,6 +9,7 @@ The provided Python script utilizes the RDKit and Mordred libraries for molecula
 _______________________________________________________________
 
 Ensure you have Python installed on your system. You can install the required libraries using pip:
+
 pip install rdkit mordred pandas matplotlib statsmodels
 
 **Usage**
